@@ -1,9 +1,9 @@
-body, html {
+/*body, html {
   margin: 0;
   padding: 0;
   height: 100%;
   overflow: hidden;
-}
+} */
 
 .sliding-background {
   background-image: url('https://placid.app/storage/marketing_cache/webp/cab4330ee8392167e611b7c6eb3dfd48/hero_test_v2.webp'); /* Replace 'your-image.jpg' with your image URL */
